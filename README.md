@@ -24,11 +24,6 @@ This Power BI dashboard presents a comprehensive analysis of an e-commerce busin
 * **State Filter:** Enables deep dives into state-specific performance
 * **Dynamic Visuals:** Interlinked charts update based on filter selections for tailored insights
 
-## Files Included
-
-* `ecommerce_sales_dashboard.pbix` (Power BI File)
-* `README.md` (Project documentation)
-* `data.csv` (Sample dataset - optional if you want to include one)
 
 ##  Insights & Suggestions
 
